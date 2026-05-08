@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌎 Hello World 👋, I'm Rohan!
 
-<!--
-**ahosan-h/ahosan-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I Write Code as a Full Stack Javascript Developer. Specialized in React.js, Next.js.
 
-Here are some ideas to get you started:
+🚀 Building modern web applications with scalable backend architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align="left">
+   <img src="https://res.cloudinary.com/dpshk6jhd/image/upload/v1778239351/ahosan-h_lpqtb1.gif" width="500"/>
+</p>
+
+<br/>
+
+Passionate about writing clean and maintainable code that adheres to industry standards and best practices. Always eager to learn new technologies and stay up-to-date with the latest trends in tech.
+
+<br/>
+
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,js,react,tailwind,nodejs,mongodb,redis,express" />
+  <br/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="48" />
+</p>
