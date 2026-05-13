@@ -19,7 +19,7 @@ Passionate about writing clean and maintainable code that adheres to industry st
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,js,react,tailwind,nodejs,mongodb,redis,express" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,js,react,tailwind,nodejs,nestjs,mongodb,redis,express" />
   <br/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="48" />
 </p>
