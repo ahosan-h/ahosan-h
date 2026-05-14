@@ -1,6 +1,6 @@
 # 🌎 Hello World 👋, I'm Rohan!
 
-🌱 I Write Code as a Full Stack Javascript Developer. Specialized in React.js, Next.js.
+🌱 Full Stack TypeScript Developer specializing in React.js, Next.js, and NestJS.
 
 🚀 Building modern web applications with scalable backend architecture.
 
