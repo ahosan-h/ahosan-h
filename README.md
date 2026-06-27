@@ -19,8 +19,7 @@ Passionate about writing clean and maintainable code that adheres to industry st
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,nestjs,express,mongodb,postgres,redis,jest,githubactions" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,nestjs,express,mongodb,postgres,redis,jest,vitest,githubactions" />
 <br/>
-   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="48" />
 </p>
